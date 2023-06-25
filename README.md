@@ -8,7 +8,7 @@
 ![projeto-pokedex](https://github.com/joaonevescampos/meu-portifolio/assets/126534395/657de748-e9b9-463c-adaa-395389794b07)
 
  
- __Confira o projeto:__ https://joaonevescampos.github.io/projeto-pokedex/
+ __Confira o projeto:__ https://joaonevescampos.github.io/projeto-site-pokemon/
  
  ---
  ![avatar pixel](https://github.com/joaonevescampos/meu-portifolio/assets/126534395/144870f1-a22b-45c2-84cf-819d2f79d5f1)

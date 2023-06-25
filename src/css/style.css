@@ -6,12 +6,17 @@ body{
     max-width:1280px;
     margin: 0 auto;
     color: rgb(0, 0, 0);
-    background-color: #b5dad0f6;
+    background-image: url(../imagens/fundo-dia-pokemon.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
     
 }
 
 .modo-escuro{
-    background-color: #090022;
+    background-image: url(../imagens/fundo-noite-pokemon.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
     
 }
 
@@ -49,7 +54,7 @@ main .lista-pokemon{
 }
 
 main .cartao-pokemon{
-    background-color: aliceblue;
+    background-color: white;
     width: 200px;
     padding: 15px;
     display: flex;
@@ -59,9 +64,10 @@ main .cartao-pokemon{
     border-radius: 20px;
     transition:0.2s ease-in-out;
     box-shadow: 3px 3px 15px #333333;
+    margin-bottom: 20px;
 }
 main .cartao-pokemon:hover{
-    background-color: #e0aa99;
+    background-color: #ebe06b;
 }
 
 .modo-escuro .cartao-pokemon{
@@ -71,14 +77,15 @@ main .cartao-pokemon:hover{
 }
 
 .modo-escuro .cartao-pokemon:hover{
-    background-color: #ebe06b;
+    background-color: #5f3c88;
+    color: white;
 
 }
 
 main .cartao-pokemon .informacoes{
     display: flex;
     justify-content: space-between;
-    border: 1px solid #333333;
+    border: 1px solid #1f1324;
     border-radius: 10px;
     
 }
@@ -140,9 +147,10 @@ main .cartao-pokemon .tipos{
 main .descricao{
     max-height: 80px;
     overflow-y: scroll;
-    font-size: 14px;
+    font-size: 10pt;
     padding-right: 15px;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: 100;
+    
     
 }

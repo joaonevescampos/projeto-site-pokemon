@@ -5,7 +5,7 @@
  
  Confira a preview do visual do projeto:
  
-![projeto-pokedex](https://github.com/joaonevescampos/meu-portifolio/assets/126534395/657de748-e9b9-463c-adaa-395389794b07)
+![pokemon-proj](https://github.com/joaonevescampos/projeto-hockey/assets/126534395/de74428a-e55c-4c5f-9c66-662544c72ecb)
 
  
  __Confira o projeto:__ https://joaonevescampos.github.io/projeto-site-pokemon/
